@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/AnyTime/static/css/main.95ccffe9.css",
-    "main.js": "/AnyTime/static/js/main.11cba545.js",
+    "main.css": "/AnyTime/static/css/main.19756ab2.css",
+    "main.js": "/AnyTime/static/js/main.c375d79d.js",
     "static/js/453.5669b8fe.chunk.js": "/AnyTime/static/js/453.5669b8fe.chunk.js",
     "static/media/Header.png": "/AnyTime/static/media/Header.84afc511fd45a7574cb8.png",
+    "static/media/rafal.png": "/AnyTime/static/media/rafal.f659074a91d22286041f.png",
+    "static/media/kamil.png": "/AnyTime/static/media/kamil.1ad48f0d426fd5ede947.png",
     "index.html": "/AnyTime/index.html",
     "static/media/circle.svg": "/AnyTime/static/media/circle.df700aca95d06d3e683128d8aec32e91.svg",
+    "static/media/SideArrow.svg": "/AnyTime/static/media/SideArrow.0bde03049f83e355f41999f2e6deb110.svg",
     "static/media/ArrowRight.svg": "/AnyTime/static/media/ArrowRight.c12d5fc09cb65c27d27f0b6a8ab2a015.svg",
-    "main.95ccffe9.css.map": "/AnyTime/static/css/main.95ccffe9.css.map",
-    "main.11cba545.js.map": "/AnyTime/static/js/main.11cba545.js.map",
+    "main.19756ab2.css.map": "/AnyTime/static/css/main.19756ab2.css.map",
+    "main.c375d79d.js.map": "/AnyTime/static/js/main.c375d79d.js.map",
     "453.5669b8fe.chunk.js.map": "/AnyTime/static/js/453.5669b8fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95ccffe9.css",
-    "static/js/main.11cba545.js"
+    "static/css/main.19756ab2.css",
+    "static/js/main.c375d79d.js"
   ]
 }
